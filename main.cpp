@@ -1,8 +1,8 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-#include "C++/UserDatabase.h"
+#include "C++/User/UserDatabase.h"
 
-bool isTest = true;
+bool isTest = false;
 
 int main(int argc, char *argv[]) {
     QGuiApplication app(argc, argv);

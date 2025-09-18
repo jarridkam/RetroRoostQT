@@ -5,7 +5,7 @@ ApplicationWindow {
     visible: true
     width: 400
     height: 300
-    title: "RetroRoost"
+    title: "Retro Roost"
 
     StackView {
         id: stack
