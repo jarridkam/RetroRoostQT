@@ -9,8 +9,10 @@
 	"INCLUDE_DIR" : "/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/cmake-build-debug/RetroRoostQT_autogen/include",
 	"INPUTS" : 
 	[
+		"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/QML/CreateAccount.qml",
 		"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/QML/HomePage.qml",
 		"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/QML/LoginScreen.qml",
+		"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/QML/test.qml",
 		"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/QML/main.qml",
 		"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/QML/SplashScreen.qml"
 	],

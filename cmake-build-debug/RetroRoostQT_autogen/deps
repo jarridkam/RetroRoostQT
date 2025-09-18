@@ -46,6 +46,9 @@ RetroRoostQT_autogen/timestamp: \
 	/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake \
 	/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/Platform/Linker/Apple-AppleClang.cmake \
 	/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/Platform/UnixPaths.cmake \
+	/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/C++/User.h \
+	/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/C++/UserDatabase.cpp \
+	/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/C++/UserDatabase.h \
 	/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/CMakeLists.txt \
 	/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/Resources/qml.qrc \
 	/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/cmake-build-debug/CMakeFiles/4.0.2/CMakeCCompiler.cmake \
@@ -974,4 +977,24 @@ RetroRoostQT_autogen/timestamp: \
 	/opt/homebrew/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets-release.cmake \
 	/opt/homebrew/lib/cmake/Qt6QuickTools/Qt6QuickToolsTargets.cmake \
 	/opt/homebrew/lib/cmake/Qt6QuickTools/Qt6QuickToolsVersionlessTargets.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginAdditionalTargetInfo.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginConfig.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets-release.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlConfigVersion.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlConfigVersionImpl.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlDependencies.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlPlugins.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlTargets-release.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlTargets.cmake \
+	/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlVersionlessAliasTargets.cmake \
+	/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateAdditionalTargetInfo.cmake \
+	/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateConfig.cmake \
+	/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateConfigVersion.cmake \
+	/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateConfigVersionImpl.cmake \
+	/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateDependencies.cmake \
+	/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateTargets.cmake \
+	/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateVersionlessAliasTargets.cmake \
 	/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake

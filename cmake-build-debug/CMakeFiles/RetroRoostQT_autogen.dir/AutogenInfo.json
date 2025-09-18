@@ -1319,13 +1319,50 @@
 		"/opt/homebrew/lib/cmake/Qt6QuickControls2Private/Qt6QuickControls2PrivateAdditionalTargetInfo.cmake",
 		"/opt/homebrew/lib/cmake/Qt6QuickControls2Private/Qt6QuickControls2PrivateVersionlessAliasTargets.cmake",
 		"/opt/homebrew/lib/cmake/Qt6QuickControls2/Qt6QuickControls2VersionlessAliasTargets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlConfigVersion.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlConfigVersionImpl.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/CMakeFindDependencyMacro.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlDependencies.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlTargets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlTargets-release.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake",
+		"/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateConfigVersion.cmake",
+		"/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateConfigVersionImpl.cmake",
+		"/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateConfig.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/CMakeFindDependencyMacro.cmake",
+		"/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateDependencies.cmake",
+		"/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateTargets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateAdditionalTargetInfo.cmake",
+		"/opt/homebrew/lib/cmake/Qt6SqlPrivate/Qt6SqlPrivateVersionlessAliasTargets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlPlugins.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginConfig.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/CMakeFindDependencyMacro.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets-release.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginAdditionalTargetInfo.cmake",
+		"/opt/homebrew/lib/cmake/Qt6Sql/Qt6SqlVersionlessAliasTargets.cmake",
 		"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/Resources/qml.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/Users/jarridkamphenkel/CLionProjects/RetroRoostQT",
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/cmake-build-debug/RetroRoostQT_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "RetroRoostQT_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/C++/User.h",
+			"MU",
+			"YVJHCMEJ7S/moc_User.cpp",
+			null
+		],
+		[
+			"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/C++/UserDatabase.h",
+			"MU",
+			"YVJHCMEJ7S/moc_UserDatabase.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/cmake-build-debug/RetroRoostQT_autogen/include",
 	"MOC_COMPILATION_FILE" : "/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/cmake-build-debug/RetroRoostQT_autogen/mocs_compilation.cpp",
@@ -1341,7 +1378,8 @@
 		"QT_QMLWORKERSCRIPT_LIB",
 		"QT_QML_LIB",
 		"QT_QUICKCONTROLS2_LIB",
-		"QT_QUICK_LIB"
+		"QT_QUICK_LIB",
+		"QT_SQL_LIB"
 	],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -1375,6 +1413,8 @@
 		"/opt/homebrew/lib/QtOpenGL.framework",
 		"/opt/homebrew/lib/QtQuickControls2.framework/Headers",
 		"/opt/homebrew/lib/QtQuickControls2.framework",
+		"/opt/homebrew/lib/QtSql.framework/Headers",
+		"/opt/homebrew/lib/QtSql.framework",
 		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1",
 		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include",
 		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include",
@@ -1413,6 +1453,11 @@
 	"SETTINGS_FILE" : "/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/cmake-build-debug/CMakeFiles/RetroRoostQT_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/C++/UserDatabase.cpp",
+			"MU",
+			null
+		],
 		[
 			"/Users/jarridkamphenkel/CLionProjects/RetroRoostQT/main.cpp",
 			"MU",

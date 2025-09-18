@@ -13,11 +13,15 @@ find_package(Qt6 REQUIRED COMPONENTS
         Qml
         Quick
         QuickControls2
+        Sql
 )
 
 add_executable(RetroRoostQT
         main.cpp
         Resources/qml.qrc
+        C++/User.h
+        C++/UserDatabase.cpp
+        C++/UserDatabase.h
 )
 
 target_link_libraries(RetroRoostQT
@@ -26,4 +30,5 @@ target_link_libraries(RetroRoostQT
         Qt6::Qml
         Qt6::Quick
         Qt6::QuickControls2
+        Qt6::Sql
 )
